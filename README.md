@@ -103,8 +103,11 @@ If you find this survey or list useful, please cite:
 
 > Goodhart's Law, proxy evaluators (RLHF / RLAIF / RLVR), the Proxy Compression Hypothesis, and the **escalating hierarchy** of feature- / representation- / evaluator- / environment-level exploitation.
 
-<sub>📑 26 papers</sub>
+<sub>📑 27 papers</sub>
 
+- [**Hack-Verifiable Environments: Towards Evaluating Reward Hacking at Scale**](https://arxiv.org/abs/2605.20744)  
+  _Roth et al._ · ![arXiv](https://img.shields.io/badge/arXiv%202026-B31B1B?style=flat-square)
+  <br/>📝 In this work, we introduce a new evaluation paradigm for measuring reward hacking. Whereas prior studies have primarily analyzed it post hoc by inspecting agent trajectories, we instead embed detectable reward hacking opportunities directly into environments.
 - [**Benchmarking Reward Hack Detection in Code Environments via Contrastive Analysis**](https://arxiv.org/abs/2601.20103)  
   _Deshpande et al._ · ![arXiv](https://img.shields.io/badge/arXiv%202026-B31B1B?style=flat-square)
   <br/>📝 Recent advances in reinforcement learning for code generation have made robust environments essential to prevent reward hacking.
