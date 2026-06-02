@@ -556,6 +556,9 @@ If you find this survey or list useful, please cite:
 - [**The Effects of Reward Misspecification: Mapping and Mitigating Misaligned Models**](https://arxiv.org/abs/2201.03544)  
   _Pan et al._ · ![ICLR](https://img.shields.io/badge/ICLR%202022-D32C2E?style=flat-square)
   <br/>📝 Reward hacking -- where RL agents exploit gaps in misspecified reward functions -- has been widely observed, but not yet systematically studied.
+- [**ast-guard: Deterministic Pre-Execution Detection of Structural Reward Hacking via AST Analysis**](https://github.com/Nick-is-building/ast-guard)
+  _Nick-is-building_ · ![GitHub](https://img.shields.io/badge/GitHub%202026-181717?style=flat-square)
+  <br/>📝 A zero-dependency deterministic detector for structural reward hacking patterns in LLM-generated code. Pure AST analysis, <10ms/scan, evaluated on 81k MALT samples and a 36-pair curated benchmark (100% F1).
 
 ### 4.3 Post-Hoc Auditing and Mechanistic Diagnostics
 
